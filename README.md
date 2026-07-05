@@ -1,6 +1,10 @@
 
 # Arabic Casual Chat Dataset
-
+![Language](https://img.shields.io/badge/Language-Arabic-009688?style=for-the-badge)
+![Format](https://img.shields.io/badge/Format-JSONL-1976D2?style=for-the-badge)
+![Task](https://img.shields.io/badge/Task-Data%20Annotation-8E24AA?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-NLP-FF9800?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-LLM-5E35B1?style=for-the-badge)
 > A professionally structured Arabic conversational dataset showcasing data annotation, quality assurance, and AI-ready dataset preparation for NLP and Large Language Model (LLM) applications.
 
 ---
